@@ -1,1 +1,1 @@
-# discourse-notebook-plugin
+# discourse-notepad-plugin
